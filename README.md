@@ -94,6 +94,7 @@ The css code is in the  below:-
 }
 ```
 The js code is shown in the below:
+
 **Js**
 ```const btn = document.getElementById("btn");
 const carContainer = document.querySelector(".car-container");
